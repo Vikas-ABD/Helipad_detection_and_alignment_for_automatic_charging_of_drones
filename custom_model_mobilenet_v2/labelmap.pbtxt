@@ -1,0 +1,25 @@
+item {
+    name: "100-_open",
+    id: 1,
+    display_name: "100-_open"
+}
+item {
+    name: "25-_closed",
+    id: 2,
+    display_name: "25-_closed"
+}
+item {
+    name: "50-_closed",
+    id: 3,
+    display_name: "50-_closed"
+}
+item {
+    name: "Helipad",
+    id: 4,
+    display_name: "Helipad"
+}
+item {
+    name: "openswitch",
+    id: 5,
+    display_name: "openswitch"
+}

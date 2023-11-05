@@ -1,0 +1,5 @@
+100-_open
+25-_closed
+50-_closed
+Helipad
+openswitch
